@@ -18,3 +18,5 @@ Un número primo es un número natural mayor que 1 que tiene únicamente dos div
 ___
 ### Video codificando estos programas y utilizando programación funcional
 ----->  [Naturals Counter, Fibonacci & Primes Counter](https://youtu.be/9hkwZArLUJs)  <-----
+
+[CÓDIGO: combinacion de estos programas utilizando programación funcional](http://tpcg.io/i9ARe8ZB)
