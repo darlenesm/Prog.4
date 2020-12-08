@@ -19,4 +19,4 @@ ___
 ### Video codificando estos programas y utilizando programación funcional
 ----->  [Naturals Counter, Fibonacci & Primes Counter](https://youtu.be/9hkwZArLUJs)  <-----
 
-[CÓDIGO: combinacion de estos programas utilizando programación funcional](http://tpcg.io/i9ARe8ZB)
+[CÓDIGO: combinacion de estos programas utilizando programación funcional](http://tpcg.io/1QTyufHg)
